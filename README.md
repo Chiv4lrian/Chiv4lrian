@@ -1,33 +1,41 @@
-👋 Hello there, I’m @Chiv4lrian
-Welcome to my GitHub profile!
+# 👋 Hello there, I'm Chivalrian!
 
-👨‍💻 About Me
-I'm an aspiring programmer and cybersecurity enthusiast with a growing passion for algorithms, ethical hacking, and software development. I have a strong interest in programming languages such as C, C++, and Java, and I'm continuously exploring new technologies to sharpen my skills.
+Welcome to my GitHub profile! I'm an aspiring programmer and cybersecurity enthusiast passionate about algorithms, ethical hacking, and software development.
 
+## 🔍 About Me
+- 💻 Strong interest in **C**, **C++**, and **Java**
+- 🔒 Focused on cybersecurity concepts and defensive programming
+- 🌱 Continuously exploring new technologies to sharpen my skills
 
-🌱 Currently Learning
-🔐 Ethical Hacking: Exploring cybersecurity concepts, attack vectors, and defense mechanisms.
-🐧 Linux OS: Understanding its architecture and functionalities to support ethical hacking and scripting.
-🧠 Algorithms & Data Structures: Practicing problem-solving regularly on platforms like LeetCode.
-💻 Java & C++ Projects: Working on beginner-level projects to apply and improve my understanding of object-oriented programming.
+## 📚 Currently Learning
+- **Ethical Hacking**:  
+  Cybersecurity concepts, attack vectors, and defense mechanisms
+- **Linux OS**:  
+  Architecture and functionalities for ethical hacking/scripting
+- **Algorithms & Data Structures**:  
+  Daily practice on [LeetCode](https://leetcode.com/u/Empatty/)
+- **Java & C++**:  
+  Building beginner projects to master OOP principles
 
+## 🛠️ Tools & Tech Stack
+| Category       | Technologies/Tools                     |
+|----------------|----------------------------------------|
+| **Languages**  | Java, C++, C                           |
+| **OS**         | Linux (Daily Driver)                   |
+| **IDEs**       | VS Code, Eclipse, Jetbrains            |
+| **Tools**      | Git, Wix                               |                    
 
-🧰 Tools & Tech Stack
-💻 Languages: Java, C++, C
-🐧 OS: Linux (currently using and learning)
-💡 Other tools: Git, Wix, VS Code, Eclipse, Jetbrains
-🧑‍💻 Platforms: LeetCode, Hack4Gov participant
+## 🤝 Looking to Collaborate
+Interested in simple Java/C++ projects for learning and growth! Reach out if:
+- You're a fellow beginner/hobbyist
+- Working on educational OOP projects
+- Building cybersecurity-related tools
 
+## 📫 Contact Me
+- ✉️ **Email**: [hanzostricker24@gmail.com](mailto:hanzostricker24@gmail.com)
+- 💻 **LeetCode**: [leetcode.com/u/Empatty](https://leetcode.com/u/Empatty/)
+- 🌐 **Wix**: Experimenting with web design prototypes
+- 🛡️ **Hack4Gov**: Passionate about cybersecurity challenges
 
-🤝 Looking to Collaborate
-I’m open to collaborating on simple Java and C++ projects, especially those that focus on learning and growing as a developer. If you’re a fellow beginner or hobbyist, feel free to reach out!
-
-
-📫 Contact Me
-📧 Email: hanzostricker24@gmail.com
-🧠 LeetCode: https://leetcode.com/u/Empatty/
-🌐 Wix User – experimenting with drag-and-drop web design and layout prototyping
-🛡️ Hack4Gov Participant – passionate about ethical hacking and cybersecurity challenges
-
-📌 Fun Fact
-I believe that consistent learning, real-world challenges, and collaboration with like-minded individuals are key to growing as a developer and ethical hacker. Let's build, break, and secure things together!
+## ⚡ Fun Fact
+I believe consistent learning + real-world challenges + collaboration = exponential growth! Let's build, break, and secure things together.
