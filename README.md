@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I'm an aspiring programmer and cybersecurity enthusiast passionate about algorithms, ethical hacking, and software development.
 
 ## 🔍 About Me
-- 💻 Strong interest in **C**, **C++**, and **Java**
+- 💻 Strong interest in **C**, **C++**, Web design and **Java**
 - 🔒 Focused on cybersecurity concepts and defensive programming
 - 🌱 Continuously exploring new technologies to sharpen my skills
 
